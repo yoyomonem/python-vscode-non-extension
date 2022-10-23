@@ -1,2 +1,2 @@
 import hello
-hello.__init__()
+hello.__main__()
